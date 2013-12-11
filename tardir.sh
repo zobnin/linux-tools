@@ -1,3 +1,3 @@
 #!/bin/sh
-tar -cf "../${PWD##*/}.tar" .
+tar -czf "../${PWD##*/}.tar.gz" .
 
