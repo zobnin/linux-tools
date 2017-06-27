@@ -10,4 +10,5 @@
 * **twitter-command.sh** - remote command line interface from twitter
 * **twitter-monitor.sh** - server monitoring via twitter
 * **webcamera-picasa.sh** - get webcamera picture and upload in picasa
+* **monitor** - enable/disable external monitor
 
